@@ -3,7 +3,7 @@ import { Routes, Route, Navigate, useLocation } from "react-router-dom";
 import { Nosotros } from "../components/pages/Nosotros";
 import { Programas } from "../components/pages/Programas";
 import { Recursos } from "../components/pages/Recursos";
-import { Eventos } from "../components/pages/eventos";
+import { Eventos } from "../components/pages/Eventos";
 import Entrada from "../components/pages/Entrada";
 import { Header } from "../components/layout/Header";
 import { Inicio } from "../components/pages/Inicio";
