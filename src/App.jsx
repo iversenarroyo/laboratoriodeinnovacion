@@ -6,7 +6,7 @@ import {
   domAnimation,
 } from "framer-motion";
 import "./App.css";
-import { Rutas } from "./routing/rutas";
+import { Rutas } from "./routing/Rutas";
 import { Header } from "./components/layout/Header";
 
 function App() {
